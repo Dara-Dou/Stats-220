@@ -9,7 +9,6 @@
     
 2. A HTML page about the two images created using R markdown
 
-3. A report about this project
 
 ***Here is my [GitHub](https://dara-dou.github.io/Stats-220/) website of the HTML I have created for this project.***
 
