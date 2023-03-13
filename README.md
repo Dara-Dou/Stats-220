@@ -7,7 +7,7 @@
     * One meme 
     * One animated GIF
     
-2. A HTML page about the two images created using R markdown
+2. A HTML page about the two images created using R markdown and CSS
 
 
 ***Here is my [GitHub](https://dara-dou.github.io/Stats-220/) website of the HTML I have created for this project.***
